@@ -19,6 +19,7 @@ public class Pile extends JPanel {
         return null;
     }
 
+
     public Card pop() {
         try {
             return cards.pop();
