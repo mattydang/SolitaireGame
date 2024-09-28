@@ -16,4 +16,4 @@ Java Swing was used for the front-end due to its compability with Java and its e
 ## Views of Project
 
 ## Author
-- [Anh Vu Dang][https://github.com/mattydang)
+- [Anh Vu Dang](https://github.com/mattydang)
